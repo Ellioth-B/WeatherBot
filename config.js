@@ -1,1 +1,0 @@
-exports.BOT_TOKEN="NzA0NzA3MTc1NTkwNzg5MjMw.XqrLOA.cYUWi7Q6E4JH_KWOPpdiLPopyXM";
